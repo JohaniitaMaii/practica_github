@@ -1,5 +1,4 @@
 # practica_github
 
-Los hongos locos de lucas!!!
+Hola putitos
 
-A Nico le gusta el chorizo!!!
